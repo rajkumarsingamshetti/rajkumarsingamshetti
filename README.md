@@ -22,7 +22,7 @@
 
 ## 👋 About Me
 
-I'm a **QA Automation Engineer & SDET** with **4+ years of hands-on experience** building scalable, enterprise-grade test automation frameworks in **regulated financial services**. I currently work as a **QA Analyst (Contract)** via IDEOBIZ Infotech for **Wonga SA (PTY) Ltd** — one of South Africa's leading financial lending platforms — covering loans, credit decisioning, and fraud detection.
+I'm a **QA Automation Engineer & SDET** with **5 years of hands-on experience** building scalable, enterprise-grade test automation frameworks in **regulated financial services**. I currently work as a **QA Analyst (Contract)** via IDEOBIZ Infotech for **Wonga SA (PTY) Ltd** — one of South Africa's leading financial lending platforms — covering loans, credit decisioning, and fraud detection.
 
 I hold an **ISTQB Certified Tester – Foundation Level** certification and specialise in **Playwright automation**, **REST API testing**, **CI/CD pipeline integration**, and **AI-assisted testing strategies**. My work sits at the intersection of software quality, engineering rigour, and financial compliance (POPIA · NCA · FICA).
 
