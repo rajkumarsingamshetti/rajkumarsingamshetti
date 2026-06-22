@@ -9,10 +9,8 @@
 <div align="center">
 
 [![ISTQB](https://img.shields.io/badge/ISTQB-Certified%20Tester%20FL-00b894?style=for-the-badge&logo=checkmarx&logoColor=white)](https://www.istqb.org/)
-&nbsp;
 [![Location](https://img.shields.io/badge/📍%20Cape%20Town-South%20Africa-0078d4?style=for-the-badge)](https://www.google.com/maps/place/Cape+Town)
-&nbsp;
-[![Experience](https://img.shields.io/badge/Experience-4%2B%20Years-blueviolet?style=for-the-badge)](https://github.com/rajkumarsingamshetti)
+[![Experience](https://img.shields.io/badge/Experience-5%20Years-blueviolet?style=for-the-badge)](https://github.com/rajkumarsingamshetti)
 &nbsp;
 [![Open to Work](https://img.shields.io/badge/Open%20To-Remote%20Roles-ff6b6b?style=for-the-badge)](mailto:singamshetti.sa@gmail.com)
 
@@ -79,7 +77,7 @@ I hold an **ISTQB Certified Tester – Foundation Level** certification and spec
 🔷  Quality-First Mindset     →  Proactive defect prevention before code reaches production
 🔷  Scalable Frameworks        →  POM, self-healing, reusable utilities — built to last
 🔷  Full-Stack QA Coverage     →  UI · API · DB · Performance · Compliance — end to end
-🔷  Regulated Domain Depth     →  4+ years in POPIA/NCA/FICA-compliant financial systems
+🔷  Regulated Domain Depth     →  5 years in POPIA/NCA/FICA-compliant financial systems
 🔷  CI/CD Embedded Testing     →  Tests run automatically on every commit, every pipeline
 🔷  AI-Augmented Testing       →  Prompt engineering, agentic execution, coverage gap analysis
 🔷  Agile Collaboration        →  Seamless in Scrum/Kanban teams with devs, PMs & stakeholders
