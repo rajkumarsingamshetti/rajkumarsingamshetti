@@ -1,6 +1,7 @@
 <!-- Rajkumar Singamshetti GITHUB PROFILE README -->
 
 <div align="center">
+<h1 align="center">Rajkumar Singamshetti</h1>
 
 <img src="https://capsule-render.vercel.app/api?htype=waving&color=0:1a1b27,100:70a5fd&height=200&section=header&text=Rajkumar%20Singamshetti&fontSize=60&fontColor=cdd6f4&fontAlignY=38&desc=QA%20Automation%20Engineer%20%7C%20SDET%20%7C%20Test%20Automation%20Specialist&descAlignY=58&descColor=a6adc8" />
 
